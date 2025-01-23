@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadData", "ReadData\ReadDa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "submodule", "submodule", "{8AA6B75D-F359-40EB-A495-185D501307E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Submodule", "..\..\..\practice\Submodule\Submodule\Submodule.csproj", "{84498846-1E4D-442C-85E8-1234CD5C265F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Submodule", "Submodule\Submodule\Submodule\Submodule.csproj", "{B52011B8-DB99-422C-A249-F8336BC706F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,15 +19,15 @@ Global
 		{F1E48B6E-6684-4282-A495-99096685F227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1E48B6E-6684-4282-A495-99096685F227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1E48B6E-6684-4282-A495-99096685F227}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84498846-1E4D-442C-85E8-1234CD5C265F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84498846-1E4D-442C-85E8-1234CD5C265F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84498846-1E4D-442C-85E8-1234CD5C265F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84498846-1E4D-442C-85E8-1234CD5C265F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52011B8-DB99-422C-A249-F8336BC706F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52011B8-DB99-422C-A249-F8336BC706F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52011B8-DB99-422C-A249-F8336BC706F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52011B8-DB99-422C-A249-F8336BC706F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{84498846-1E4D-442C-85E8-1234CD5C265F} = {8AA6B75D-F359-40EB-A495-185D501307E5}
+		{B52011B8-DB99-422C-A249-F8336BC706F3} = {8AA6B75D-F359-40EB-A495-185D501307E5}
 	EndGlobalSection
 EndGlobal
